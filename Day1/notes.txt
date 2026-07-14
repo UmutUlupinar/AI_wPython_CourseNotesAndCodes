@@ -1,0 +1,34 @@
+﻿Büyük Veri Nedir?
+ * Büyük veride hacim, çeşitlilik, ve hız yönünden zengin veri topluluğudur. Sadece hacmi olan veri büyük veri olacak
+   anlamına gelmez.
+
+DeepL ve Büyük Dil Modeli(LLM) Çeviri Yeteneği
+ * Geleneksel istatistiksel çeviri yöntemleri(Google Translate) kelime kelime gider. DeepL ve GPT tabanlı sistemler
+   "bağlamsal veri analizi" yaparak daha doğru çeviri yapar.
+
+Yapay Zeka Teknolojilerinin Temelden Ürüne Evrimi
+ * Yapay Sinir Ağları (Artificial Neural Networks)                   Yapay Sinir Ağları → en temel yapı
+                │
+                ▼
+    Derin Öğrenme ve Derin Ağlar(Deep Learning)                      Derin Öğrenme → çok katmanlı sinir ağları
+                │
+                ▼
+    Üretken Yapay Zeka Modelleri
+                │
+                ▼
+    Transformer Mimarileri                                           Transformer → derin öğrenme mimarilerinden biri
+                │
+                ▼
+    Büyük Dil Modelleri (LLMs)                                       LLM → Transformer tabanlı büyük modeller
+                │
+                ▼
+    ChatGPT / Gemini / Copilot / Claude vb.                          LLM kullanan son kullanıcı uygulamaları
+
+Veri Odaklı Makine Öğrenmesi Yaklaşımları
+  1. Gözetimsiz (Denetimsiz) Öğrenme (Unsupervised Learning) :Etiketsiz veri kullanılır.
+     Kullanım alanları: Kümeleme (Clustering), Öbekleme / Demetleme, Segmentasyon problemleri ,Boyut indirgeme
+     (Dimensionality Reduction)
+
+  2. Gözetimli (Denetimli) Öğrenme (Supervised Learning) : Etiketli veri kullanılır.
+     Kullanım alanları: Sınıflandırma (Classification), Regresyon (Regression), Çok Önemli
+     Birçok çarpıcı yapay zeka uygulamasının temelinde Gözetimli Öğrenme (Supervised Learning) yaklaşımı bulunmaktadır.
